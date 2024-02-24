@@ -1,2 +1,8 @@
 assets/.DS_Store
 .DS_Store
+
+
+# Ignore .DS_Store files
+.DS_Store
+# Ignore .DS_Store files in the 'assets' directory
+assets/.DS_Store
